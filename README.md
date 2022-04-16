@@ -13,3 +13,6 @@ Conhecimentos utilizados.
 ETL
 Python - pandas
 Power BI
+
+
+![image](https://user-images.githubusercontent.com/62726503/163686812-970fd63e-9a78-4731-8d06-6c1632105d1b.png)
